@@ -3,7 +3,7 @@
 Get ready to get Strapi up and running in **less than 3 minutes** 🚀.
 
 <div class="video-container">
-  <iframe width="853" height="480" src="https://www.youtube.com/embed/zd0_S_FPzKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="853" height="480" src="https://www.youtube.com/embed/zd0_S_FPzKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%;"></iframe>
 </div>
 
 _For a step-by-step guide, please take a look at the following steps. This quickstart is really close to the [FoodAdvisor](https://github.com/strapi/foodadvisor) application._
